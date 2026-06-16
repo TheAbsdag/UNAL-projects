@@ -1,0 +1,151 @@
+titulo,genero,duracion,calificacion,anio
+The Shawshank Redemption,Drama,142,9.3,1994
+The Godfather,Crimen,175,9.2,1972
+The Dark Knight,Accion,152,9.0,2008
+The Godfather Part II,Crimen,202,9.0,1974
+12 Angry Men,Drama,96,9.0,1957
+The Lord of the Rings The Return of the King,Aventura,201,9.0,2003
+Schindlers List,Drama,195,9.0,1993
+Pulp Fiction,Crimen,154,8.9,1994
+Pixels,Comedia,106,5.6,2015
+Norbit,Comedia,102,4.2,2007
+The Emoji Movie,Animacion,86,3.4,2017
+The Lord of the Rings The Fellowship of the Ring,Aventura,178,8.9,2001
+The Good the Bad and the Ugly,Western,178,8.8,1966
+Forrest Gump,Drama,142,8.8,1994
+Fight Club,Drama,139,8.8,1999
+The Lord of the Rings The Two Towers,Aventura,179,8.8,2002
+Inception,Ciencia Ficcion,148,8.8,2010
+Star Wars Episode V The Empire Strikes Back,Ciencia Ficcion,124,8.7,1980
+The Matrix,Ciencia Ficcion,136,8.7,1999
+Goodfellas,Crimen,145,8.7,1990
+One Flew Over the Cuckoos Nest,Drama,133,8.7,1975
+Se7en,Thriller,127,8.6,1995
+Interstellar,Ciencia Ficcion,169,8.7,2014
+The Silence of the Lambs,Thriller,118,8.6,1991
+Saving Private Ryan,Guerra,169,8.6,1998
+City of God,Crimen,130,8.6,2002
+The Green Mile,Drama,189,8.6,1999
+Life Is Beautiful,Drama,116,8.6,1997
+Terminator 2 Judgment Day,Accion,137,8.6,1991
+Back to the Future,Ciencia Ficcion,116,8.5,1985
+Spirited Away,Animacion,125,8.6,2001
+The Pianist,Drama,150,8.5,2002
+Parasite,Thriller,132,8.5,2019
+Gladiator,Accion,155,8.5,2000
+Whiplash,Drama,106,8.5,2014
+The Departed,Crimen,151,8.5,2006
+The Prestige,Drama,130,8.5,2006
+The Lion King,Animacion,88,8.5,1994
+National Treasure,Aventura,131,6.9,2004
+The Da Vinci Code,Misterio,149,6.6,2006
+Angels and Demons,Misterio,138,6.7,2009
+World War Z,Terror,116,7.0,2013
+I Am Legend,Ciencia Ficcion,101,7.2,2007
+War of the Worlds,Ciencia Ficcion,116,6.5,2005
+Oblivion,Ciencia Ficcion,124,7.0,2013
+Passengers,Ciencia Ficcion,116,7.0,2016
+Lucy,Ciencia Ficcion,89,6.4,2014
+Memento,Thriller,113,8.4,2000
+Apocalypse Now,Guerra,147,8.4,1979
+Alien,Ciencia Ficcion,117,8.4,1979
+The Shining,Terror,146,8.4,1980
+Django Unchained,Western,165,8.4,2012
+WALL-E,Animacion,98,8.4,2008
+Avengers Infinity War,Accion,149,8.4,2018
+Avengers Endgame,Accion,181,8.4,2019
+Toy Story,Animacion,81,8.3,1995
+Coco,Animacion,105,8.4,2017
+Jurassic Park,Aventura,127,8.2,1993
+The Truman Show,Drama,103,8.2,1998
+Mad Max Fury Road,Accion,120,8.1,2015
+Blade Runner 2049,Ciencia Ficcion,164,8.0,2017
+The Social Network,Drama,120,7.8,2010
+Batman Forever,Accion,121,5.4,1995
+Batman and Robin,Accion,125,3.8,1997
+The Happening,Thriller,91,5.0,2008
+After Earth,Ciencia Ficcion,100,4.8,2013
+The Mummy Returns,Aventura,130,6.4,2001
+A Quiet Place Part II,Terror,97,7.2,2020
+The Conjuring,Terror,112,7.5,2013
+The Conjuring 2,Terror,134,7.3,2016
+Annabelle,Terror,99,5.4,2014
+Annabelle Creation,Terror,109,6.5,2017
+Jurassic World Dominion,Aventura,147,5.6,2022
+Transformers Revenge of the Fallen,Accion,150,6.0,2009
+Transformers The Last Knight,Accion,154,5.2,2017
+Venom,Accion,112,6.6,2018
+Venom Let There Be Carnage,Accion,97,5.9,2021
+The Amazing Spider-Man 2,Accion,142,6.5,2014
+Eternals,Accion,156,6.3,2021
+Thor The Dark World,Accion,112,6.7,2013
+The Last Airbender,Aventura,137,2.5,2010
+2012,Ciencia Ficcion,158,5.8,2009
+Moonfall,Ciencia Ficcion,130,5.1,2022
+The Day After Tomorrow,Ciencia Ficcion,124,6.5,2004
+Godzilla King of the Monsters,Ciencia Ficcion,132,6.0,2019
+Pacific Rim,Aventura,131,6.9,2013
+Uncharted,Aventura,116,6.3,2022
+The Meg,Aventura,113,5.7,2018
+San Andreas,Aventura,114,6.1,2015
+The Tourist,Romance,103,6.0,2010
+Mission Impossible Ghost Protocol,Accion,133,7.4,2011
+Mission Impossible Fallout,Accion,147,7.7,2018
+Spectre,Accion,148,6.8,2015
+No Time to Die,Accion,163,7.3,2021
+Valentines Day,Romance,125,5.7,2010
+Dear John,Romance,108,6.3,2010
+The Vow,Romance,104,6.8,2012
+50 Shades of Grey,Romance,99,3.5,2015
+27 Dresses,Romance,111,6.1,2008
+Ghost Rider,Accion,114,5.3,2007
+Fantastic Four,Accion,100,4.0,2015
+Green Lantern,Accion,114,5.5,2011
+Morbius,Accion,104,5.1,2022
+The Expendables 3,Accion,126,6.1,2014
+Grown Ups,Comedia,102,6.0,2010
+Paul Blart Mall Cop,Comedia,91,5.3,2009
+Cars 2,Animacion,106,6.2,2011
+Hotel Transylvania,Animacion,91,7.0,2012
+Minions,Animacion,91,6.4,2015
+Rocky,Drama,120,8.1,1976
+Rocky II,Drama,119,7.3,1979
+Rocky III,Drama,99,6.8,1982
+Rocky IV,Drama,91,6.9,1985
+Creed,Drama,133,7.6,2015
+Creed II,Drama,130,7.1,2018
+Rambo First Blood,Accion,93,7.7,1982
+Rambo First Blood Part II,Accion,96,6.5,1985
+Rambo III,Accion,102,5.8,1988
+John Wick,Accion,101,7.5,2014
+John Wick Chapter 2,Accion,122,7.4,2017
+John Wick Chapter 3 Parabellum,Accion,130,7.4,2019
+John Wick Chapter 4,Accion,169,7.7,2023
+Top Gun,Accion,109,6.9,1986
+Top Gun Maverick,Accion,130,8.2,2022
+Mission Impossible,Accion,110,7.2,1996
+Mission Impossible 2,Accion,123,6.1,2000
+Mission Impossible III,Accion,126,6.9,2006
+Casino Royale,Accion,144,8.0,2006
+Quantum of Solace,Accion,106,6.6,2008
+Skyfall,Accion,143,7.8,2012
+Shrek,Animacion,90,7.9,2001
+Shrek 2,Animacion,93,7.4,2004
+Shrek the Third,Animacion,93,6.1,2007
+Shrek Forever After,Animacion,93,6.3,2010
+Finding Nemo,Animacion,100,8.2,2003
+Finding Dory,Animacion,97,7.3,2016
+Monsters Inc,Animacion,92,8.1,2001
+Monsters University,Animacion,104,7.2,2013
+Inside Out,Animacion,95,8.1,2015
+Inside Out 2,Animacion,96,7.6,2024
+Frozen,Animacion,102,7.4,2013
+Frozen II,Animacion,103,6.8,2019
+Brave,Animacion,93,7.1,2012
+A Quiet Place,Terror,90,7.5,2018
+Insidious,Terror,103,6.8,2010
+Insidious Chapter 2,Terror,106,6.5,2013
+Saw,Terror,103,7.6,2004
+Saw II,Terror,93,6.6,2005
+The Ring,Terror,115,7.1,2002
+The Nun,Terror,96,5.3,2018
