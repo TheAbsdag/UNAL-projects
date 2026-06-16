@@ -4,7 +4,7 @@ Un repositorio para todos los proyectos básicos necesarios en la UNAL cuya comp
 
 A repository for all basic or one-repository UNAL projects whose complexity is not big enough for a large repo.
 
-## Directorio / Directory
+## Directorio
 
 - [Programación de Computadores](#programacion-de-computadores)
   1. [Python Equipos — Análisis de equipos de fútbol](#1-python-equipos--analisis-de-equipos-de-futbol)
@@ -12,7 +12,7 @@ A repository for all basic or one-repository UNAL projects whose complexity is n
 
 ---
 
-## Ejercicios presentes / Exercises
+## Ejercicios presentes
 
 ### Programación de Computadores
 
